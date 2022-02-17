@@ -1,0 +1,11 @@
+https://i.stack.imgur.com/jNyV5.jpg
+
+ASSOCIAÇÃO: objeto de uma classe pode usar serviços / métodos fornecidos pelo objeto de outra classe.
+
+AGREGAÇÃO e COMPOSIÇÃO são subconjuntos de associação, casos específicos.
+
+EXEMPLO DE COMPOSIÇÃO [relacionamento de morte]:
+Objeto A consiste de B e gerencia o ciclo de vida de B. Um prédio consiste de apartamentos, se o prédio deixar de existir, os apartamentos também deixarão.
+
+EXEMPLO DE AGREGAÇÃO [relacionamento autônomo]:
+Objeto A consiste de B. O departamento contém professores. Se o objeto departamento deixar de existir, isso não destruirá o objeto professor).
